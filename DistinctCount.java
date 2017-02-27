@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class GfG
+public class DistinctCount
 {
     public static void main(String args[])
     {
